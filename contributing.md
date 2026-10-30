@@ -164,6 +164,6 @@ did nothing" when they simply never restarted.
 
 ---
 
-*GTA 5 Online · Updated 2026-10-29 · Shared under the MIT License*
+*GTA 5 Online · Updated 2026-10-30 · Shared under the MIT License*
 
-<!-- rev 2026-10-29 -->
+<!-- rev 2026-10-30 -->
